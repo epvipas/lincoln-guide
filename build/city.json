@@ -8,5 +8,5 @@
  "base": {"name": "Castle Square", "addr": "Castle Square, between the Cathedral and the Castle, LN1 3AA", "lat": 53.23415, "lon": -0.53835,
           "q": "Castle Square, Lincoln", "icon": "🏰", "short": "Castle Square", "the": "Castle Square"},
  "special": {"tab": "Steep Hill", "icon": "⛰️"},
- "version": 1
+ "version": 2
 }
