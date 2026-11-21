@@ -32,13 +32,13 @@ add("museums","The Collection (Lincoln Museum)","Danes Terrace, LN2 1LP",
  "Closed for refurbishment; the Usher Gallery next door is open",web="https://www.lincolnmuseum.com",geo="The Collection, Lincoln")
 add("museums","International Bomber Command Centre","Canwick Avenue, LN4 2HQ",
  "A memorial spire the height of a Lancaster's wingspan, surrounded by walls listing the names of nearly 58,000 men lost in Bomber Command, with a thoughtful exhibition and a café looking back at the Cathedral.",
- "Tue–Sun 9:30–17:00 · closed Mondays except bank holidays",web="https://internationalbcc.co.uk",far=True,geo="International Bomber Command Centre")
+ "Tue–Sun 9:30–17:00 (winter mid-Nov–Feb 9:30–16:00, last entry 15:00) · closed Mondays except bank holidays, and over Christmas–New Year",web="https://internationalbcc.co.uk",far=True,geo="International Bomber Command Centre")
 add("museums","Museum of Lincolnshire Life","Burton Road, LN1 3LY",
  "A rambling social-history museum in old army barracks: shops, workshops, farm machinery and Lincolnshire's part in the invention of the tank, which was built in the city in 1915–16.",
- "Check opening days before you go",geo="Museum of Lincolnshire Life")
+ "Fri–Tue 10:00–16:00 · free",geo="Museum of Lincolnshire Life")
 add("museums","Ellis Mill","Mill Road, LN1 3JJ",
- "The last survivor of the windmills that once lined Lincoln's western ridge, a working tower mill run by volunteers with views over the Trent valley.",
- "Opens limited weekend afternoons, mainly in summer",ta=False,geo="Ellis Mill, Lincoln",ll=(53.2370,-0.5470))
+ "The last survivor of the windmills that once lined Lincoln's western ridge, an 18th-century tower mill with views over the Trent valley. It needs major repairs and the council is reviewing its future.",
+ "Open on selected advertised days only; check the council's Ellis Mill page",ta=False,geo="Ellis Mill, Lincoln",ll=(53.2370,-0.5470))
 
 # ---------------- GALLERIES ----------------
 add("galleries","Usher Gallery","Lindum Road, LN2 1NN",
@@ -127,8 +127,8 @@ add("pubs","The Joiners Arms","4 Victoria Street, LN1 1HY",
 add("pubs","Adam & Eve Tavern","25 Lindum Road, LN2 1NT",
  "Claims to be Lincoln's oldest tavern, with roots in the 1700s, near the Usher Gallery and the Cathedral.",
  "Pair with the Usher Gallery",price=1,geo="Adam and Eve Tavern, Lincoln",ll=(53.2335,-0.5345))
-add("pubs","Cardinal's Hat","268 High Street, LN2 1AZ",
- "A 15th-century timber-framed building that was an inn from 1521, now a craft-beer and real-ale pub. Named after Cardinal Wolsey, once Bishop of Lincoln.",
+add("pubs","Cardinal's Hat","268 High Street, LN2 1HW",
+ "A Grade II* 15th-century timber-framed building, later a bank and a St John Ambulance base, reopened as a craft-beer and real-ale pub in 2015. Named after Cardinal Wolsey, once Bishop of Lincoln.",
  "Downhill near the Stonebow",price=1,geo="Cardinal's Hat, Lincoln")
 add("pubs","The Victoria","6 Union Road, LN1 3BJ",
  "A classic Victorian corner pub under the Castle's west gate, with a big range of real ales and a crowd of regulars.",
@@ -144,9 +144,9 @@ add("music","Engine Shed","Brayford Pool, LN6 7TS",
 add("music","The Drill (Lincoln Drill Hall)","Freeschool Lane, LN2 1EY",
  "A Victorian drill hall turned arts venue, now trading as The Drill, for gigs, theatre and family shows, with a café-bar. It hosts the monthly Red Herring Comedy Club.",
  "Good mid-size venue for folk and comedy",geo="Drill Hall, Lincoln")
-add("music","Theatre Royal Lincoln","Clasketgate, LN2 1JJ",
+add("music","New Theatre Royal Lincoln","Clasketgate, LN2 1JJ",
  "A handsome Victorian theatre, one of the oldest working theatres in England, with touring drama and an annual panto.",
- "Panto runs through December",geo="Theatre Royal, Lincoln")
+ "2026 panto: Beauty and the Beast, 1 Dec–3 Jan",geo="Theatre Royal, Lincoln")
 
 # ---------------- THINGS TO DO ----------------
 add("fun","Gamesaints","Sessions House, Monks Road, LN2 5HQ",
@@ -165,9 +165,9 @@ add("parks","Hartsholme Country Park","Skellingthorpe Road, LN6 0EY",
  "Free entry; 10 minutes' drive",far=True,drive="10 min",geo="Hartsholme Country Park",ll=(53.2085,-0.5845))
 
 # ---------------- SPORT ----------------
-add("sport","LNER Stadium (Lincoln City)","Sincil Bank, LN5 8LD",
- "Home of the Imps, Lincoln City FC, a short walk south of the station. Match tickets are usually easy to get and the atmosphere is good.",
- "15 minutes' walk from the station",far=True,geo="Sincil Bank Stadium")
+add("sport","ProAmpac Stadium (Lincoln City)","Sincil Bank, LN5 8LD",
+ "Home of the Imps, Lincoln City FC, a short walk south of the station. It was renamed from the LNER Stadium in July 2026, and the newly promoted Imps now play in the Championship.",
+ "Book ahead: Championship games can sell out · 15 minutes' walk from the station",far=True,geo="Sincil Bank Stadium")
 
 # ---------------- MARKETS ----------------
 add("markets","Lincoln Cathedral Christmas Market","Lincoln Cathedral, Minster Yard, LN2 1PX",
@@ -195,7 +195,7 @@ add("trips","Belton House","Belton, Grantham, NG32 2LS",
  "Winter events run into 2027",far=True,drive="45 min",geo="Belton House")
 add("trips","Lincolnshire Aviation Heritage Centre","East Kirkby, PE23 4DE",
  "A wartime airfield where the Lancaster bomber 'Just Jane' runs its engines and taxies on selected days. Moving and loud.",
- "Check taxi-run dates",far=True,drive="45 min",geo="Lincolnshire Aviation Heritage Centre",ll=(53.1435,0.0040))
+ "Taxi runs May–early Nov only · closed about three weeks over Christmas",far=True,drive="45 min",geo="Lincolnshire Aviation Heritage Centre",ll=(53.1435,0.0040))
 
 # ---------------- REVIEW ADDITIONS (Nov 2026) ----------------
 add("cafes","Stokes High Bridge Café","207 High Street, LN2 1AW",
@@ -205,7 +205,7 @@ add("cafes","Madame Waffle","285 High Street, LN2 1AL",
  "A small, rustic independent waffle house on the High Street, with sweet and savoury waffles and good coffee.",
  "Opening days vary; check before a special trip",price=1,geo="Madame Waffle, Lincoln")
 add("cafes","Café Zoot","5 Bailgate, LN1 3AE",
- "A not-for-profit café on Bailgate whose takings support a local catering school.",
+ "A relaxed café-restaurant on Bailgate, good for brunch, lunch or a coffee stop between the Castle and Newport Arch.",
  "Check it's open · between the Castle and Newport Arch",price=1,ta=False,geo="Cafe Zoot, Bailgate",ll=(53.2350,-0.5387))
 add("splurge","Antlers at the White Hart","White Hart Hotel, Bailgate, LN1 3AR",
  "The White Hart's à la carte restaurant between the Castle and the Cathedral, named Restaurant of the Year in Pride Magazine's 2025 Good Food Awards.",
@@ -225,8 +225,8 @@ add("pubs","Morning Star","11 Greetwellgate, LN2 4AW",
 add("music","Brayford Comedy Club","DoubleTree by Hilton, Brayford Wharf North, LN1 1YW",
  "Regular stand-up comedy nights in the waterfront hotel by Brayford Pool, with dates through late 2026.",
  "Book online; a Boxing Day show is listed",geo="DoubleTree Lincoln")
-add("fun","Tension Exit Games","53 Croft Street, LN2 5AZ",
- "A virtual-reality arena with Lincoln-themed escape rooms such as Magna Carta, Lancaster and The Victorian Inquisition.",
+add("fun","Tension Twisted Realities","53 Croft Street, LN2 5AZ",
+ "Physical escape rooms with Lincoln themes (Save the Magna Carta, Lancaster, Imp, Plague, Shipwreck, Time Machine), plus separate VR games.",
  "Good rainy-day option for a group",geo="Tension, Croft Street, Lincoln")
 add("gear","London Camera Exchange","6 Silver Street, LN2 1DY",
  "A camera shop just off the High Street selling new and second-hand cameras and lenses, with part-exchange, sensor cleaning and repairs.",
@@ -272,15 +272,15 @@ add("trips","Southwell Minster","Church Street, Southwell, NG25 0HD",
 add("galleries","The Little Red Gallery","8 Bailgate, LN1 3AE",
  "An independent gallery in the Cathedral Quarter whose small frontage opens into four rooms of original work and limited-edition prints by established and emerging artists.",
  "Between the Castle and the Cathedral; friendly staff happy to talk about the artists",web="https://thelittleredgallery.co.uk",geo="The Little Red Gallery, Bailgate")
-add("galleries","Indigo Crow","Burton Road, LN1 3JY",
+add("galleries","Indigo Crow","57 Burton Road, LN1 3JY",
  "An artist-led gallery, artisan shop and workshop space in uphill Lincoln, with rotating exhibitions of art and contemporary craft.",
  "Tue–Sun 10:00–16:00 · free · near the Museum of Lincolnshire Life",geo="Indigo Crow, Burton Road, Lincoln")
 add("galleries","Gallery at St Martin's","37B Hungate, St Martin's Square, LN1 1ET",
  "A small, tucked-away artist-run gallery in the historic quarter, showing work by students and more established artists.",
  "Check it's open: opening times vary between shows",ta=False,geo="Gallery at St Martin's, Lincoln")
-add("galleries","Clarendon Fine Art","Sincil Street, Cornhill Quarter, LN5 7ET",
+add("galleries","Clarendon Fine Art","28 Sincil Street, Cornhill Quarter, LN5 7ET",
  "A commercial gallery of modern and contemporary art, with original works and limited editions, part of a small national group, in the regenerated Cornhill Quarter.",
- "Pair with the Cornhill Market next door",web="https://clarendonfineart.com/collections/lincoln",geo="Clarendon Fine Art, Lincoln")
+ "Newly opened, so check it's open · pair with the Cornhill Market next door",web="https://clarendonfineart.com/collections/lincoln",geo="Clarendon Fine Art, Lincoln")
 add("galleries","Spencer Coleman Fine Art","2 Exchequer Gate, LN2 1PZ",
  "A fine-art gallery by the Cathedral's Exchequer Gate arch, selling original paintings and prints.",
  "Tue–Sat 10:00–16:00",geo="Spencer Coleman Fine Art, Lincoln")
@@ -289,3 +289,44 @@ add("galleries","Spencer Coleman Fine Art","2 Exchequer Gate, LN2 1PZ",
 add("gear","J. Birkett (Birketts)","25 The Strait, LN2 1JD",
  "A legendary surplus electronics shop at the foot of Steep Hill, founded by John Birkett and run by his family since his death in 2022. It's crammed with new and second-hand components, vintage military and amateur radios, test equipment and even old aircraft instruments. Radio hams have travelled from all over the country to dig through it for decades.",
  "Family-run, so check it's open before a special trip · cash useful · allow time to rummage",ta=False,geo="J Birkett, The Strait, Lincoln",ll=(53.2306,-0.5391))
+
+# ---------------- CLOTHES: UPHILL BOUTIQUES & MENSWEAR (Nov 2026) ----------------
+add("fashion","EQVVS","280–281 High Street, LN2 1AW",
+ "Lincoln's big designer menswear store, open since the 1980s, spread over several floors: Stone Island, C.P. Company, Hugo Boss and plenty of smaller labels. It is spelled EQVVS but said 'Equus'.",
+ "Flagship on the High Street, near the Stonebow",who=["m"],web="https://www.eqvvs.co.uk",ta=False,geo="EQVVS, High Street, Lincoln",ll=(53.2293,-0.5400))
+add("fashion","Gere Menswear","High Street, Lincoln",
+ "An independent menswear shop that grew from a small unit on Clasketgate. It sells smart-casual labels such as Fred Perry, Antony Morato, Pepe Jeans and Minimum.",
+ "Combine with EQVVS and Todd's for a High Street menswear crawl",who=["m"],ta=False,geo="Gere Menswear, High Street, Lincoln",ll=(53.2290,-0.5402))
+add("fashion","Cahoots for Men","Top of Steep Hill, LN2 1LU",
+ "A menswear boutique right at the top of Steep Hill. It stocks Gant, Tommy Hilfiger and Sand, and has a good range of shoes. Its sister shop, Cahoots for Ladies, is a few doors down.",
+ "Pair with Cahoots for Ladies",who=["m"],web="https://www.cahootslincoln.com",ta=False,geo="Cahoots, Steep Hill, Lincoln",ll=(53.2338,-0.5389))
+add("fashion","Cahoots for Ladies","36 Steep Hill, LN2 1LU",
+ "A designer womenswear boutique on Steep Hill, sister to Cahoots for Men. Expect smart European labels.",
+ "Easier to browse on the way down the hill",who=["w"],web="https://www.cahootslincoln.com",ta=False,geo="Cahoots for Ladies, Steep Hill, Lincoln",ll=(53.2334,-0.5390))
+add("fashion","Debutante Boutique","Steep Hill, LN2 1LT",
+ "A small womenswear boutique on Steep Hill, with clothes and accessories that lean towards French and Italian design.",
+ "Small shop, so check it's open",who=["w"],ta=False,geo="Debutante, Steep Hill, Lincoln",ll=(53.2330,-0.5391))
+add("fashion","OSKA","10 Bailgate, LN1 3AE",
+ "A branch of the German label known for relaxed, minimalist womenswear in natural fabrics: linen, wool and loose layered shapes in muted colours.",
+ "Bailgate's anchor for grown-up womenswear",who=["w"],web="https://www.oska.com",ta=False,geo="OSKA, Bailgate, Lincoln",ll=(53.2358,-0.5389))
+add("fashion","SELF","Bailgate, LN1 3AP",
+ "An independent womenswear boutique on Bailgate with a well-chosen mix of contemporary labels, knitwear and accessories.",
+ "Combine with OSKA, Oui and Shahla on one Bailgate stroll",who=["w"],ta=False,geo="SELF boutique, Bailgate, Lincoln",ll=(53.2362,-0.5388))
+add("fashion","Oui","Bailgate, LN1 3AE",
+ "A small Bailgate boutique for women's clothes and accessories, with a French-inspired, relaxed style.",
+ "Small shop, so check it's open",who=["w"],ta=False,geo="Oui, Bailgate, Lincoln",ll=(53.2356,-0.5390))
+add("fashion","The Collections by Shahla","Bailgate, LN1 3AR",
+ "An occasionwear and couture boutique on Bailgate, for wedding guests, mothers of the bride and bridal.",
+ "Book an appointment for bridal",who=["w"],ta=False,geo="Collections by Shahla, Bailgate, Lincoln",ll=(53.2366,-0.5387))
+add("fashion","Chesters Menswear","Bailgate, LN1 3AR",
+ "A traditional gents' outfitter on Bailgate for suits, tailoring, formal hire and country clothing.",
+ "Useful for wedding and event hire",who=["m"],ta=False,geo="Chesters, Bailgate, Lincoln",ll=(53.2369,-0.5387))
+add("fashion","Dash Boutique","Gordon Street, off Bailgate",
+ "A small women's boutique just off Bailgate, selling casual clothes, accessories and gifts.",
+ "Small shop, so check it's open",who=["w"],ta=False,geo="Dash Boutique, Gordon Street, Lincoln",ll=(53.2372,-0.5394))
+add("fashion","Bo-Peep Boutique","Bailgate, LN1 3AE",
+ "A family-run children's boutique for babies up to age 10, selling clothes, wooden toys and gifts. It also has a big range of Jellycat cuddly toys and Peter Rabbit and Paddington items.",
+ "Good for presents for little ones",who=["k"],ta=False,geo="Bo-Peep, Bailgate, Lincoln",ll=(53.2360,-0.5390))
+add("fashion","Ego Clothing","The Strait, LN2 1JD",
+ "An independent shop on The Strait, near the bottom of Steep Hill, selling vintage and new clothing for men and women.",
+ "Next door to the bottom of Steep Hill",who=["m","w"],ta=False,geo="Ego, The Strait, Lincoln",ll=(53.2308,-0.5392))

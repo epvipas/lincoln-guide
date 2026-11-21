@@ -31,10 +31,13 @@
   "tab": "Steep Hill",
   "icon": "⛰️"
  },
- "version": 5,
+ "version": 6,
  "renamed": {
   "The Drill (Lincoln Drill Hall)": "Lincoln Drill Hall",
   "Hobbsons Restaurant & Pie Shop": "Browns Pie Shop",
-  "The Collection (Lincoln Museum)": "The Collection"
+  "The Collection (Lincoln Museum)": "The Collection",
+  "ProAmpac Stadium (Lincoln City)": "LNER Stadium (Lincoln City)",
+  "Tension Twisted Realities": "Tension Exit Games",
+  "New Theatre Royal Lincoln": "Theatre Royal Lincoln"
  }
 }
