@@ -331,5 +331,5 @@ add("fashion","Ego Clothing","The Strait, LN2 1JD",
  "An independent shop on The Strait, near the bottom of Steep Hill, selling vintage and new clothing for men and women.",
  "Next door to the bottom of Steep Hill",who=["m","w"],ta=False,geo="Ego, The Strait, Lincoln",ll=(53.2308,-0.5392))
 add("fashion","Corvo (formerly Coneys)","255 High Street, Lincoln",
- "A long-running Lincolnshire designer menswear shop, trading as Coneys since the early 1990s and recently renamed Corvo. It sells smart-casual and tailoring labels and has a suit shop next door that used to be called Cavani.",
- "Combine with EQVVS, Gere and Todd's for a High Street menswear crawl",who=["m"],ta=False,geo="Coneys, High Street, Lincoln",ll=(53.2299,-0.5398))
+ "A long-running Lincolnshire designer menswear shop, trading as Coneys since the early 1990s and recently renamed Corvo. It sells smart-casual and tailoring labels. The shop next door, once the Cavani suit shop, is now also Corvo and sells discounted designer menswear.",
+ "Check the discount shop next door for bargains · combine with EQVVS, Gere and Todd's",who=["m"],ta=False,geo="Coneys, High Street, Lincoln",ll=(53.2299,-0.5398))
