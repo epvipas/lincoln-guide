@@ -1,12 +1,40 @@
 {
- "slug": "lincoln", "city": "Lincoln", "short": "Lincoln",
+ "slug": "lincoln",
+ "city": "Lincoln",
+ "short": "Lincoln",
  "tagline": "Eat · Drink · Steep Hill · Antiques · Galleries · Days out",
  "desc": "Independent Lincoln: places to eat and drink, Steep Hill's shops, antiques, galleries, museums and days out, with maps, reviews and directions.",
- "theme": "#6B2E3E", "gradient": "linear-gradient(110deg,#4A1F2B,#8C3B4F 55%,#D9A441)",
- "icon_colors": ["#4A1F2B", "#C98A3A"], "stone": "#E6D3A8", "landmark": "cathedral",
- "center": [53.2310, -0.5390], "zoom": 15,
- "base": {"name": "Castle Square", "addr": "Castle Square, between the Cathedral and the Castle, LN1 3AA", "lat": 53.23415, "lon": -0.53835,
-          "q": "Castle Square, Lincoln", "icon": "🏰", "short": "Castle Square", "the": "Castle Square"},
- "special": {"tab": "Steep Hill", "icon": "⛰️"},
- "version": 2
+ "theme": "#6B2E3E",
+ "gradient": "linear-gradient(110deg,#4A1F2B,#8C3B4F 55%,#D9A441)",
+ "icon_colors": [
+  "#4A1F2B",
+  "#C98A3A"
+ ],
+ "stone": "#E6D3A8",
+ "landmark": "cathedral",
+ "center": [
+  53.231,
+  -0.539
+ ],
+ "zoom": 15,
+ "base": {
+  "name": "Castle Square",
+  "addr": "Castle Square, between the Cathedral and the Castle, LN1 3AA",
+  "lat": 53.23415,
+  "lon": -0.53835,
+  "q": "Castle Square, Lincoln",
+  "icon": "🏰",
+  "short": "Castle Square",
+  "the": "Castle Square"
+ },
+ "special": {
+  "tab": "Steep Hill",
+  "icon": "⛰️"
+ },
+ "version": 3,
+ "renamed": {
+  "The Drill (Lincoln Drill Hall)": "Lincoln Drill Hall",
+  "Hobbsons Restaurant & Pie Shop": "Browns Pie Shop",
+  "The Collection (Lincoln Museum)": "The Collection"
+ }
 }

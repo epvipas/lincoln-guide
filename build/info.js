@@ -6,11 +6,11 @@ function renderSpecial() {
   const stops = [
     ['Stonebow & Guildhall', 'Start downhill under the 15th-century city gate.'],
     ['High Bridge & the Glory Hole', 'Detour two minutes south to see the Tudor houses on the medieval bridge.'],
-    ['Coffee Bobbins', 'Coffee at the foot of the hill, then start climbing up the Strait.'],
+    ['Coffee Bobbins', 'Coffee on the Strait, at the foot of the hill.'],
     ['Jew\'s House Restaurant', 'The Jew\'s House, from the 1150s, is one of England\'s oldest town houses.'],
     ['Bunty\'s Tea Room', 'The halfway tea stop.'],
     ['Harding House Gallery', 'Makers\' co-operative for a one-off gift.'],
-    ['Browns Pie Shop', 'Past the steepest bit. Look out for Norman House opposite.'],
+    ['Hobbsons Restaurant & Pie Shop', 'Past the steepest bit. Norman House, another 12th-century house, is a few doors up.'],
     ['Steep Hill & the Strait', 'Near the top: Mouse House cheese, Imperial Teas and the Wig & Mitre.'],
     ['Lincoln Cathedral', 'Turn right at the top for the Cathedral.'],
     ['Lincoln Castle', 'Or left across Castle Square for Magna Carta and the wall walk.'],
@@ -35,7 +35,7 @@ function renderInfo() {
   </div>
   <div class="sec"><h2>🗓️ Two easy days</h2>
    <div class="day" style="background:#FDE3DF"><b>Day 1 · Cathedral, Castle &amp; Steep Hill:</b> ${refs(['Lincoln Cathedral', 'Lincoln Castle', 'Bailgate shops', 'Newport Arch', 'The Cheese Society', 'Steep Hill & the Strait', 'Harding House Gallery', 'Strugglers Inn', 'Jew\'s House Restaurant'])}</div>
-   <div class="day" style="background:#DDEBFA"><b>Day 2 · Museums, river &amp; antiques:</b> ${refs(['The Collection', 'Usher Gallery', 'Lincoln Arboretum', 'Stonebow & Guildhall', 'High Bridge & the Glory Hole', 'Brayford Waterfront', 'Back To Mono', 'Cardinal\'s Hat', 'Olé Olé'])}</div>
+   <div class="day" style="background:#DDEBFA"><b>Day 2 · Museums, river &amp; antiques:</b> ${refs(['Usher Gallery', 'Lincoln Arboretum', 'Stonebow & Guildhall', 'High Bridge & the Glory Hole', 'Brayford Waterfront', 'Back To Mono', 'Cardinal\'s Hat', 'Olé Olé'])}</div>
   </div>
   <div class="sec"><h2>🏺 Antiques &amp; vintage</h2>
    <div class="day" style="background:#FDEFD6"><b>Antiques hunting:</b> ${refs(['Hemswell Antique Centres', 'Westgate Antiques Centre', 'Vintage Flea Market, Lincolnshire Showground', 'Rock Retro'])}
@@ -48,7 +48,7 @@ function renderInfo() {
   <div class="sec"><h2>🎄 What's on this winter</h2><ul>
    <li>The famous Bailgate Christmas market no longer runs. The <b>Cathedral's own Christmas market</b> is on 3–5 December 2026 and is ticketed.</li>
    <li><b>Panto</b> at the Theatre Royal through December.</li>
-   <li><b>Tattershall Castle</b> opens for winter weekends until 23 December, and Doddington Hall is famous for its Christmas decorations.</li></ul></div>
+   <li><b>Tattershall Castle</b> has winter opening days in the run-up to Christmas (check dates), and Doddington Hall is famous for its Christmas decorations.</li></ul></div>
   <div class="sec"><h2>🕐 Opening hours</h2><ul>
    <li>The Usher Gallery opens Thursday to Monday, and the Bomber Command Centre is closed on Mondays.</li>
    <li>Steep Hill's small shops mostly open about 10:00–17:00, with shorter hours on Sundays.</li>
