@@ -284,3 +284,8 @@ add("galleries","Clarendon Fine Art","Sincil Street, Cornhill Quarter, LN5 7ET",
 add("galleries","Spencer Coleman Fine Art","2 Exchequer Gate, LN2 1PZ",
  "A fine-art gallery by the Cathedral's Exchequer Gate arch, selling original paintings and prints.",
  "Tue–Sat 10:00–16:00",geo="Spencer Coleman Fine Art, Lincoln")
+
+# ---------------- ADDED FROM READER TIP (Nov 2026) ----------------
+add("gear","J. Birkett (Birketts)","25 The Strait, LN2 1JD",
+ "A legendary surplus electronics shop at the foot of Steep Hill, founded by John Birkett and run by his family since his death in 2022. It's crammed with new and second-hand components, vintage military and amateur radios, test equipment and even old aircraft instruments. Radio hams have travelled from all over the country to dig through it for decades.",
+ "Family-run, so check it's open before a special trip · cash useful · allow time to rummage",ta=False,geo="J Birkett, The Strait, Lincoln",ll=(53.2306,-0.5391))
