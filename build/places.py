@@ -267,3 +267,20 @@ add("sport","Market Rasen Racecourse","Legsby Road, Market Rasen, LN8 3EA",
 add("trips","Southwell Minster","Church Street, Southwell, NG25 0HD",
  "A Norman minster in a small Nottinghamshire town, famous for the 13th-century carved stone leaves in its Chapter House, with good independent shops.",
  "Combine with Newark on the way",far=True,drive="45 min",geo="Southwell Minster")
+
+# ---------------- MORE GALLERIES (Nov 2026) ----------------
+add("galleries","The Little Red Gallery","8 Bailgate, LN1 3AE",
+ "An independent gallery in the Cathedral Quarter whose small frontage opens into four rooms of original work and limited-edition prints by established and emerging artists.",
+ "Between the Castle and the Cathedral; friendly staff happy to talk about the artists",web="https://thelittleredgallery.co.uk",geo="The Little Red Gallery, Bailgate")
+add("galleries","Indigo Crow","Burton Road, LN1 3JY",
+ "An artist-led gallery, artisan shop and workshop space in uphill Lincoln, with rotating exhibitions of art and contemporary craft.",
+ "Tue–Sun 10:00–16:00 · free · near the Museum of Lincolnshire Life",geo="Indigo Crow, Burton Road, Lincoln")
+add("galleries","Gallery at St Martin's","37B Hungate, St Martin's Square, LN1 1ET",
+ "A small, tucked-away artist-run gallery in the historic quarter, showing work by students and more established artists.",
+ "Check it's open: opening times vary between shows",ta=False,geo="Gallery at St Martin's, Lincoln")
+add("galleries","Clarendon Fine Art","Sincil Street, Cornhill Quarter, LN5 7ET",
+ "A commercial gallery of modern and contemporary art, with original works and limited editions, part of a small national group, in the regenerated Cornhill Quarter.",
+ "Pair with the Cornhill Market next door",web="https://clarendonfineart.com/collections/lincoln",geo="Clarendon Fine Art, Lincoln")
+add("galleries","Spencer Coleman Fine Art","2 Exchequer Gate, LN2 1PZ",
+ "A fine-art gallery by the Cathedral's Exchequer Gate arch, selling original paintings and prints.",
+ "Tue–Sat 10:00–16:00",geo="Spencer Coleman Fine Art, Lincoln")
