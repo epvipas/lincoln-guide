@@ -1,747 +1,756 @@
 {
- "Lincoln Cathedral": [
-  [
-   53.2342885,
-   -0.5362358,
-   "amenity",
-   "place_of_worship",
-   "Lincoln Cathedral, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Lincoln Castle": [
-  [
-   53.2349301,
-   -0.5410103,
-   "tourism",
-   "attraction",
-   "Lincoln Castle, West Gate Bridge, Whitton Park, Ermine West, Lincoln, Lincolnshi"
-  ]
- ],
- "Steep Hill & the Strait": [
-  [
-   53.2334227,
-   -0.538544,
-   "highway",
-   "pedestrian",
-   "Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN2 1L"
-  ]
- ],
- "Bishop's Old Palace": [
-  [
-   53.2332883,
-   -0.5361717,
-   "building",
-   "yes",
-   "Medieval Bishop's Palace, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater L"
-  ]
- ],
- "Newport Arch": [
-  [
-   53.2372106,
-   -0.5380697,
-   "historic",
-   "city_gate",
-   "Newport Arch, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, Eng"
-  ]
- ],
- "High Bridge & the Glory Hole": [
-  [
-   53.2285107,
-   -0.5406671,
-   "highway",
-   "pedestrian",
-   "High Bridge, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, England,"
-  ]
- ],
- "Brayford Waterfront": [
-  [
-   53.2290024,
-   -0.5473422,
-   "leisure",
-   "marina",
-   "Brayford Pool Marina, Brayford Quays, New Boultham, Lincoln, Lincolnshire, Great"
-  ]
- ],
- "Stonebow & Guildhall": [
-  [
-   53.2293266,
-   -0.5392597,
-   "highway",
-   "pedestrian",
-   "Stonebow Centre, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, Engl"
-  ]
- ],
- "The Collection": [
-  [
-   53.2316726,
-   -0.5373686,
-   "tourism",
-   "museum",
-   "Lincoln Museum, 1, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
-  ]
- ],
- "International Bomber Command Centre": [
-  [
-   53.2124533,
-   -0.5261731,
-   "natural",
-   "grassland",
-   "International Bomber Command Centre, Canwick Avenue, Canwick, North Kesteven, Li"
-  ]
- ],
- "Museum of Lincolnshire Life": [
-  [
-   53.2378876,
-   -0.545426,
-   "tourism",
-   "museum",
-   "Museum of Lincolnshire Life, Upper Long Leys Road, Whitton Park, Ermine West, Li"
-  ]
- ],
- "Ellis Mill": [],
- "Usher Gallery": [
-  [
-   53.2320929,
-   -0.5365182,
-   "tourism",
-   "gallery",
-   "The Usher Gallery, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
-  ]
- ],
- "Harding House Gallery": [
-  [
-   53.233267,
-   -0.5383995,
-   "shop",
-   "art",
-   "Harding House Gallery, 49-50, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater"
-  ]
- ],
- "Bailgate shops": [
-  [
-   53.2359383,
-   -0.5383892,
-   "highway",
-   "unclassified",
-   "Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN1 3AR,"
-  ]
- ],
- "Imperial Teas": [
-  [
-   53.2336247,
-   -0.5386298,
-   "shop",
-   "tea",
-   "Imperial Teas, 47, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
-  ]
- ],
- "Goodies sweet shop": [],
- "Back To Mono": [],
- "Lindum Books": [
-  [
-   53.2346384,
-   -0.5386145,
-   "shop",
-   "books",
-   "Lindum Books, 4, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, "
-  ]
- ],
- "Westgate Antiques Centre": [
-  [
-   53.2360412,
-   -0.5403397,
-   "shop",
-   "antiques",
-   "Westgate Antiques Centre, 24, Westgate, Ermine, Lincoln, Lincolnshire, Greater L"
-  ]
- ],
- "Rock Retro": [],
- "Hemswell Antique Centres": [
-  [
-   53.3996664,
-   -0.5709322,
-   "shop",
-   "antiques",
-   "Hemswell Antique Centres Number Two, Barton Road, Hemswell Cliff Business Centre"
-  ]
- ],
- "The Cheese Society": [],
- "Mouse House Cheese Shop": [],
- "Steep Hill Wines": [
-  [
-   53.2338173,
-   -0.5389311,
-   "shop",
-   "wine",
-   "Steep Hill Wines, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshir"
-  ]
- ],
- "Bailgate Deli": [
-  [
-   53.2352308,
-   -0.5389455,
-   "shop",
-   "deli",
-   "Bailgate Deli, Gordon Road, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire,"
-  ]
- ],
- "Bunty's Tea Room": [
-  [
-   53.2332229,
-   -0.5385724,
-   "amenity",
-   "cafe",
-   "Bunty's Tea Room, 18, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincoln"
-  ]
- ],
- "Pimento": [],
- "Coffee Bobbins": [],
- "Café Shanti": [],
- "Jew's House Restaurant": [],
- "Olé Olé": [
-  [
-   53.2353377,
-   -0.5436784,
-   "amenity",
-   "restaurant",
-   "Olé Olé Tapas Bar & Restaurant, 3, Union Road, Whitton Park, New Boultham, Linco"
-  ]
- ],
- "Browns Pie Shop": [
-  [
-   53.234229,
-   -0.5388918,
-   "amenity",
-   "restaurant",
-   "Browns Pie Shop, 33, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Wig & Mitre": [
-  [
-   53.2340942,
-   -0.5389711,
-   "amenity",
-   "pub",
-   "Wig and Mitre, 30, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
-  ]
- ],
- "The Duke William": [
-  [
-   53.2367173,
-   -0.5384342,
-   "amenity",
-   "pub",
-   "Duke William, 42-44, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
-  ]
- ],
- "Strugglers Inn": [
-  [
-   53.2361903,
-   -0.5424567,
-   "amenity",
-   "pub",
-   "The Strugglers Inn, Westgate, Whitton Park, Ermine West, Lincoln, Lincolnshire, "
-  ]
- ],
- "The Joiners Arms": [
-  [
-   53.2323624,
-   -0.5438066,
-   "amenity",
-   "pub",
-   "Joiners Arms, 4-6, Victoria Street, New Boultham, Lincoln, Lincolnshire, Greater"
-  ]
- ],
- "Adam & Eve Tavern": [],
- "Cardinal's Hat": [
-  [
-   53.2314391,
-   -0.539365,
-   "amenity",
-   "pub",
-   "The Cardinal's Hat, 268, High Street, New Boultham, Lincoln, Lincolnshire, Great"
-  ]
- ],
- "The Victoria": [
-  [
-   53.2358925,
-   -0.5427855,
-   "amenity",
-   "pub",
-   "The Victoria, 6, Union Road, Whitton Park, Ermine West, Lincoln, Lincolnshire, G"
-  ]
- ],
- "Tiny Tavern": [
-  [
-   53.2219757,
-   -0.5445106,
-   "amenity",
-   "pub",
-   "Tiny Tavern, 107-108, High Street, New Boultham, Lincoln, Lincolnshire, Greater "
-  ]
- ],
- "Engine Shed": [
-  [
-   53.2272875,
-   -0.5455222,
-   "amenity",
-   "nightclub",
-   "The Engine Shed, Ropewalk, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Lincoln Drill Hall": [
-  [
-   53.2298305,
-   -0.5371424,
-   "amenity",
-   "arts_centre",
-   "Lincoln Drill Hall, Free School Lane, New Boultham, Lincoln, Lincolnshire, Great"
-  ]
- ],
- "Theatre Royal Lincoln": [
-  [
-   53.2307743,
-   -0.5390144,
-   "amenity",
-   "theatre",
-   "New Theatre Royal, Clasketgate, New Boultham, Lincoln, Lincolnshire, Greater Lin"
-  ]
- ],
- "Gamesaints": [],
- "Lincoln Arboretum": [
-  [
-   53.2313408,
-   -0.5261958,
-   "leisure",
-   "park",
-   "Arboretum, St. Giles, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN2 "
-  ]
- ],
- "Fossdyke & Brayford towpath": [
-  [
-   53.22912,
-   -0.5466049,
-   "waterway",
-   "canal",
-   "Fossdyke Navigation, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, "
-  ]
- ],
- "Hartsholme Country Park": [],
- "LNER Stadium (Lincoln City)": [
-  [
-   53.2182158,
-   -0.540833,
-   "leisure",
-   "stadium",
-   "LNER Stadium, Sincil Bank, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Lincoln Cathedral Christmas Market": [
-  [
-   53.2342885,
-   -0.5362358,
-   "amenity",
-   "place_of_worship",
-   "Lincoln Cathedral, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Vintage Flea Market, Lincolnshire Showground": [
-  [
-   53.286852,
-   -0.5478851,
-   "tourism",
-   "attraction",
-   "Lincolnshire Showground, Tillbridge Lane, Scampton CP, West Lindsey, Lincolnshir"
-  ]
- ],
- "Doddington Hall": [
-  [
-   53.22011,
-   -0.6536353,
-   "tourism",
-   "attraction",
-   "Doddington Hall, Carr Lane, Doddington, Doddington and Whisby, North Kesteven, L"
-  ]
- ],
- "Gainsborough Old Hall": [
-  [
-   53.4007132,
-   -0.7782513,
-   "tourism",
-   "museum",
-   "Gainsborough Old Hall, Parnell Street, Gainsborough CP, Morton, West Lindsey, Li"
-  ]
- ],
- "Tattershall Castle": [
-  [
-   53.1013432,
-   -0.1934093,
-   "tourism",
-   "attraction",
-   "Tattershall Castle, Sleaford Road, Tattershall, East Lindsey, Lincolnshire, Grea"
-  ]
- ],
- "Kinema in the Woods, Woodhall Spa": [],
- "Belton House": [
-  [
-   52.9430682,
-   -0.617746,
-   "tourism",
-   "attraction",
-   "Belton House, West Courtyard, Belton and Manthorpe, Belton, South Kesteven, Linc"
-  ]
- ],
- "Lincolnshire Aviation Heritage Centre": [],
- "Hobbsons Restaurant & Pie Shop": [],
- "The Drill (Lincoln Drill Hall)": [
-  [
-   53.2298305,
-   -0.5371424,
-   "amenity",
-   "arts_centre",
-   "Lincoln Drill Hall, Free School Lane, New Boultham, Lincoln, Lincolnshire, Great"
-  ]
- ],
- "Stokes High Bridge Café": [
-  [
-   53.2285275,
-   -0.5408398,
-   "amenity",
-   "cafe",
-   "Stokes High Bridge Café, 207-209, High Street, New Boultham, Lincoln, Lincolnshi"
-  ]
- ],
- "Madame Waffle": [
-  [
-   53.228,
-   -0.5408,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Café Zoot": [
-  [
-   53.234694,
-   -0.5386952,
-   "amenity",
-   "restaurant",
-   "Cafe Zoot, 5, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, Eng"
-  ]
- ],
- "Antlers at the White Hart": [
-  [
-   53.2347358,
-   -0.5380433,
-   "tourism",
-   "hotel",
-   "White Hart Hotel, 91, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnsh"
-  ]
- ],
- "No.THIRTY8": [
-  [
-   53.2357,
-   -0.5412,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Organ Grinder": [
-  [
-   53.235028,
-   -0.5380691,
-   "amenity",
-   "pub",
-   "Organ Grinder, 4, Eastgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire,"
-  ]
- ],
- "Golden Eagle": [
-  [
-   53.2164605,
-   -0.5459852,
-   "amenity",
-   "pub",
-   "Golden Eagle, 21, High Street, St Catherines, Boultham, Lincoln, Lincolnshire, G"
-  ]
- ],
- "Morning Star": [
-  [
-   53.2352461,
-   -0.531858,
-   "amenity",
-   "pub",
-   "Morning Star, Greetwell Gate, Ermine East, Lincoln, Lincolnshire, Greater Lincol"
-  ]
- ],
- "Brayford Comedy Club": [
-  [
-   53.2282,
-   -0.5468,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Tension Exit Games": [
-  [
-   53.2294023,
-   -0.5319546,
-   "leisure",
-   "escape_game",
-   "Tension Twisted Realities, 53, Croft Street, St. Giles, Lincoln, Lincolnshire, G"
-  ]
- ],
- "London Camera Exchange": [
-  [
-   53.23,
-   -0.5398,
-   "manual",
-   "manual",
-   "6 Silver Street (OSM still shows the old 155 High Street site)"
-  ]
- ],
- "Not Quite North": [
-  [
-   53.2292777,
-   -0.5409983,
-   "craft",
-   "photographic_laboratory",
-   "Not Quite North, 23A, Guildhall Street, New Boultham, Lincoln, Lincolnshire, Gre"
-  ]
- ],
- "CeX Lincoln": [
-  [
-   53.2298342,
-   -0.5397964,
-   "shop",
-   "electronics",
-   "CeX, 1, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, "
-  ]
- ],
- "BHF Furniture & Electrical, Lincoln": [
-  [
-   53.2263668,
-   -0.5416935,
-   "shop",
-   "charity",
-   "British Heart Foundation, High Street, New Boultham, Lincoln, Lincolnshire, Grea"
-  ]
- ],
- "St Barnabas Hospice: The Warehouse": [
-  [
-   53.244,
-   -0.525,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Agatha": [
-  [
-   53.2313624,
-   -0.5397286,
-   "shop",
-   "clothes",
-   "Agatha, 262A, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Todd's Menswear": [],
- "Asia Supermarket": [],
- "Cornhill Market": [
-  [
-   53.227986,
-   -0.5391538,
-   "amenity",
-   "marketplace",
-   "Cornhill Market, Sincil Street, New Boultham, Lincoln, Lincolnshire, Greater Lin"
-  ]
- ],
- "Whisby Nature Park": [
-  [
-   53.1875108,
-   -0.643042,
-   "leisure",
-   "nature_reserve",
-   "Whisby Nature Park, Thorpe on the Hill, North Kesteven, Lincolnshire, Greater Li"
-  ]
- ],
- "Boultham Park": [
-  [
-   53.2087563,
-   -0.5572185,
-   "leisure",
-   "park",
-   "Boultham Park, Boultham, Bracebridge, Lincoln, Lincolnshire, Greater Lincolnshir"
-  ]
- ],
- "Market Rasen Racecourse": [
-  [
-   53.37931,
-   -0.31493,
-   "tourism",
-   "camp_site",
-   "Market Rasen Racecourse, Legsby Road, Market Rasen, West Lindsey, Lincolnshire, "
-  ]
- ],
- "Southwell Minster": [
-  [
-   53.0768472,
-   -0.9541376,
-   "amenity",
-   "place_of_worship",
-   "Southwell Minster, Church Street, Southwell CP, Newark and Sherwood, Nottinghams"
-  ]
- ],
- "The Collection (Lincoln Museum)": [
-  [
-   53.2316726,
-   -0.5373686,
-   "tourism",
-   "museum",
-   "Lincoln Museum, 1, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
-  ]
- ],
- "The Little Red Gallery": [
-  [
-   53.2348141,
-   -0.538723,
-   "shop",
-   "art",
-   "The Little Red Gallery, 8, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Linc"
-  ]
- ],
- "Indigo Crow": [
-  [
-   53.2378,
-   -0.543,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Gallery at St Martin's": [
-  [
-   53.2312,
-   -0.542,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Clarendon Fine Art": [
-  [
-   53.2275,
-   -0.5397,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Spencer Coleman Fine Art": [
-  [
-   53.234,
-   -0.5372,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "J. Birkett (Birketts)": [
-  [
-   53.2317752,
-   -0.5388,
-   "shop",
-   "electrical",
-   "J. Birkett, 25-26, The Strait, New Boultham, Lincoln, Lincolnshire, Greater Linc"
-  ]
- ],
- "EQVVS": [
-  [
-   53.2306273,
-   -0.5396253,
-   "shop",
-   "clothes",
-   "Eqvvs, 280-281, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincol"
-  ]
- ],
- "Gere Menswear": [],
- "Cahoots for Men": [
-  [
-   53.234,
-   -0.5388,
-   "manual",
-   "manual",
-   "manual"
-  ]
- ],
- "Cahoots for Ladies": [
-  [
-   53.2341465,
-   -0.5385536,
-   "shop",
-   "clothes",
-   "Cahoots for Ladies, 36, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Linco"
-  ]
- ],
- "Debutante Boutique": [],
- "OSKA": [
-  [
-   53.2348741,
-   -0.5387816,
-   "shop",
-   "clothes",
-   "Oska, 10, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England"
-  ]
- ],
- "SELF": [],
- "Oui": [],
- "The Collections by Shahla": [],
- "Chesters Menswear": [],
- "Dash Boutique": [],
- "Bo-Peep Boutique": [
-  [
-   53.2350932,
-   -0.5384185,
-   "shop",
-   "toys",
-   "Bo Peep in the Bail, 88 A-C, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Li"
-  ]
- ],
- "Ego Clothing": [
-  [
-   53.2316947,
-   -0.539364,
-   "shop",
-   "clothes",
-   "Ego, 2, The Strait, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, E"
-  ]
- ],
- "ProAmpac Stadium (Lincoln City)": [
-  [
-   53.2182158,
-   -0.540833,
-   "leisure",
-   "stadium",
-   "LNER Stadium, Sincil Bank, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
-  ]
- ],
- "Tension Twisted Realities": [
-  [
-   53.2294023,
-   -0.5319546,
-   "leisure",
-   "escape_game",
-   "Tension Twisted Realities, 53, Croft Street, St. Giles, Lincoln, Lincolnshire, G"
-  ]
- ],
- "New Theatre Royal Lincoln": [
-  [
-   53.2307743,
-   -0.5390144,
-   "amenity",
-   "theatre",
-   "New Theatre Royal, Clasketgate, New Boultham, Lincoln, Lincolnshire, Greater Lin"
-  ]
- ]
+"Lincoln Cathedral": [
+[
+53.2342885,
+-0.5362358,
+"amenity",
+"place_of_worship",
+"Lincoln Cathedral, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Lincoln Castle": [
+[
+53.2349301,
+-0.5410103,
+"tourism",
+"attraction",
+"Lincoln Castle, West Gate Bridge, Whitton Park, Ermine West, Lincoln, Lincolnshi"
+]
+],
+"Steep Hill & the Strait": [
+[
+53.2334227,
+-0.538544,
+"highway",
+"pedestrian",
+"Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN2 1L"
+]
+],
+"Bishop's Old Palace": [
+[
+53.2332883,
+-0.5361717,
+"building",
+"yes",
+"Medieval Bishop's Palace, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater L"
+]
+],
+"Newport Arch": [
+[
+53.2372106,
+-0.5380697,
+"historic",
+"city_gate",
+"Newport Arch, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, Eng"
+]
+],
+"High Bridge & the Glory Hole": [
+[
+53.2285107,
+-0.5406671,
+"highway",
+"pedestrian",
+"High Bridge, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, England,"
+]
+],
+"Brayford Waterfront": [
+[
+53.2290024,
+-0.5473422,
+"leisure",
+"marina",
+"Brayford Pool Marina, Brayford Quays, New Boultham, Lincoln, Lincolnshire, Great"
+]
+],
+"Stonebow & Guildhall": [
+[
+53.2293266,
+-0.5392597,
+"highway",
+"pedestrian",
+"Stonebow Centre, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, Engl"
+]
+],
+"The Collection": [
+[
+53.2316726,
+-0.5373686,
+"tourism",
+"museum",
+"Lincoln Museum, 1, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
+]
+],
+"International Bomber Command Centre": [
+[
+53.2124533,
+-0.5261731,
+"natural",
+"grassland",
+"International Bomber Command Centre, Canwick Avenue, Canwick, North Kesteven, Li"
+]
+],
+"Museum of Lincolnshire Life": [
+[
+53.2378876,
+-0.545426,
+"tourism",
+"museum",
+"Museum of Lincolnshire Life, Upper Long Leys Road, Whitton Park, Ermine West, Li"
+]
+],
+"Ellis Mill": [],
+"Usher Gallery": [
+[
+53.2320929,
+-0.5365182,
+"tourism",
+"gallery",
+"The Usher Gallery, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
+]
+],
+"Harding House Gallery": [
+[
+53.233267,
+-0.5383995,
+"shop",
+"art",
+"Harding House Gallery, 49-50, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater"
+]
+],
+"Bailgate shops": [
+[
+53.2359383,
+-0.5383892,
+"highway",
+"unclassified",
+"Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN1 3AR,"
+]
+],
+"Imperial Teas": [
+[
+53.2336247,
+-0.5386298,
+"shop",
+"tea",
+"Imperial Teas, 47, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
+]
+],
+"Goodies sweet shop": [],
+"Back To Mono": [],
+"Lindum Books": [
+[
+53.2346384,
+-0.5386145,
+"shop",
+"books",
+"Lindum Books, 4, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, "
+]
+],
+"Westgate Antiques Centre": [
+[
+53.2360412,
+-0.5403397,
+"shop",
+"antiques",
+"Westgate Antiques Centre, 24, Westgate, Ermine, Lincoln, Lincolnshire, Greater L"
+]
+],
+"Rock Retro": [],
+"Hemswell Antique Centres": [
+[
+53.3996664,
+-0.5709322,
+"shop",
+"antiques",
+"Hemswell Antique Centres Number Two, Barton Road, Hemswell Cliff Business Centre"
+]
+],
+"The Cheese Society": [],
+"Mouse House Cheese Shop": [],
+"Steep Hill Wines": [
+[
+53.2338173,
+-0.5389311,
+"shop",
+"wine",
+"Steep Hill Wines, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshir"
+]
+],
+"Bailgate Deli": [
+[
+53.2352308,
+-0.5389455,
+"shop",
+"deli",
+"Bailgate Deli, Gordon Road, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire,"
+]
+],
+"Bunty's Tea Room": [
+[
+53.2332229,
+-0.5385724,
+"amenity",
+"cafe",
+"Bunty's Tea Room, 18, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincoln"
+]
+],
+"Pimento": [],
+"Coffee Bobbins": [],
+"Caf\u00e9 Shanti": [],
+"Jew's House Restaurant": [],
+"Ol\u00e9 Ol\u00e9": [
+[
+53.2353377,
+-0.5436784,
+"amenity",
+"restaurant",
+"Ol\u00e9 Ol\u00e9 Tapas Bar & Restaurant, 3, Union Road, Whitton Park, New Boultham, Linco"
+]
+],
+"Browns Pie Shop": [
+[
+53.234229,
+-0.5388918,
+"amenity",
+"restaurant",
+"Browns Pie Shop, 33, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Wig & Mitre": [
+[
+53.2340942,
+-0.5389711,
+"amenity",
+"pub",
+"Wig and Mitre, 30, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
+]
+],
+"The Duke William": [
+[
+53.2367173,
+-0.5384342,
+"amenity",
+"pub",
+"Duke William, 42-44, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
+]
+],
+"Strugglers Inn": [
+[
+53.2361903,
+-0.5424567,
+"amenity",
+"pub",
+"The Strugglers Inn, Westgate, Whitton Park, Ermine West, Lincoln, Lincolnshire, "
+]
+],
+"The Joiners Arms": [
+[
+53.2323624,
+-0.5438066,
+"amenity",
+"pub",
+"Joiners Arms, 4-6, Victoria Street, New Boultham, Lincoln, Lincolnshire, Greater"
+]
+],
+"Adam & Eve Tavern": [],
+"Cardinal's Hat": [
+[
+53.2314391,
+-0.539365,
+"amenity",
+"pub",
+"The Cardinal's Hat, 268, High Street, New Boultham, Lincoln, Lincolnshire, Great"
+]
+],
+"The Victoria": [
+[
+53.2358925,
+-0.5427855,
+"amenity",
+"pub",
+"The Victoria, 6, Union Road, Whitton Park, Ermine West, Lincoln, Lincolnshire, G"
+]
+],
+"Tiny Tavern": [
+[
+53.2219757,
+-0.5445106,
+"amenity",
+"pub",
+"Tiny Tavern, 107-108, High Street, New Boultham, Lincoln, Lincolnshire, Greater "
+]
+],
+"Engine Shed": [
+[
+53.2272875,
+-0.5455222,
+"amenity",
+"nightclub",
+"The Engine Shed, Ropewalk, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Lincoln Drill Hall": [
+[
+53.2298305,
+-0.5371424,
+"amenity",
+"arts_centre",
+"Lincoln Drill Hall, Free School Lane, New Boultham, Lincoln, Lincolnshire, Great"
+]
+],
+"Theatre Royal Lincoln": [
+[
+53.2307743,
+-0.5390144,
+"amenity",
+"theatre",
+"New Theatre Royal, Clasketgate, New Boultham, Lincoln, Lincolnshire, Greater Lin"
+]
+],
+"Gamesaints": [],
+"Lincoln Arboretum": [
+[
+53.2313408,
+-0.5261958,
+"leisure",
+"park",
+"Arboretum, St. Giles, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN2 "
+]
+],
+"Fossdyke & Brayford towpath": [
+[
+53.22912,
+-0.5466049,
+"waterway",
+"canal",
+"Fossdyke Navigation, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, "
+]
+],
+"Hartsholme Country Park": [],
+"LNER Stadium (Lincoln City)": [
+[
+53.2182158,
+-0.540833,
+"leisure",
+"stadium",
+"LNER Stadium, Sincil Bank, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Lincoln Cathedral Christmas Market": [
+[
+53.2342885,
+-0.5362358,
+"amenity",
+"place_of_worship",
+"Lincoln Cathedral, Minster Yard, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Vintage Flea Market, Lincolnshire Showground": [
+[
+53.286852,
+-0.5478851,
+"tourism",
+"attraction",
+"Lincolnshire Showground, Tillbridge Lane, Scampton CP, West Lindsey, Lincolnshir"
+]
+],
+"Doddington Hall": [
+[
+53.22011,
+-0.6536353,
+"tourism",
+"attraction",
+"Doddington Hall, Carr Lane, Doddington, Doddington and Whisby, North Kesteven, L"
+]
+],
+"Gainsborough Old Hall": [
+[
+53.4007132,
+-0.7782513,
+"tourism",
+"museum",
+"Gainsborough Old Hall, Parnell Street, Gainsborough CP, Morton, West Lindsey, Li"
+]
+],
+"Tattershall Castle": [
+[
+53.1013432,
+-0.1934093,
+"tourism",
+"attraction",
+"Tattershall Castle, Sleaford Road, Tattershall, East Lindsey, Lincolnshire, Grea"
+]
+],
+"Kinema in the Woods, Woodhall Spa": [],
+"Belton House": [
+[
+52.9430682,
+-0.617746,
+"tourism",
+"attraction",
+"Belton House, West Courtyard, Belton and Manthorpe, Belton, South Kesteven, Linc"
+]
+],
+"Lincolnshire Aviation Heritage Centre": [],
+"Hobbsons Restaurant & Pie Shop": [],
+"The Drill (Lincoln Drill Hall)": [
+[
+53.2298305,
+-0.5371424,
+"amenity",
+"arts_centre",
+"Lincoln Drill Hall, Free School Lane, New Boultham, Lincoln, Lincolnshire, Great"
+]
+],
+"Stokes High Bridge Caf\u00e9": [
+[
+53.2285275,
+-0.5408398,
+"amenity",
+"cafe",
+"Stokes High Bridge Caf\u00e9, 207-209, High Street, New Boultham, Lincoln, Lincolnshi"
+]
+],
+"Madame Waffle": [
+[
+53.228,
+-0.5408,
+"manual",
+"manual",
+"manual"
+]
+],
+"Caf\u00e9 Zoot": [
+[
+53.234694,
+-0.5386952,
+"amenity",
+"restaurant",
+"Cafe Zoot, 5, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, Eng"
+]
+],
+"Antlers at the White Hart": [
+[
+53.2347358,
+-0.5380433,
+"tourism",
+"hotel",
+"White Hart Hotel, 91, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnsh"
+]
+],
+"No.THIRTY8": [
+[
+53.2357,
+-0.5412,
+"manual",
+"manual",
+"manual"
+]
+],
+"Organ Grinder": [
+[
+53.235028,
+-0.5380691,
+"amenity",
+"pub",
+"Organ Grinder, 4, Eastgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire,"
+]
+],
+"Golden Eagle": [
+[
+53.2164605,
+-0.5459852,
+"amenity",
+"pub",
+"Golden Eagle, 21, High Street, St Catherines, Boultham, Lincoln, Lincolnshire, G"
+]
+],
+"Morning Star": [
+[
+53.2352461,
+-0.531858,
+"amenity",
+"pub",
+"Morning Star, Greetwell Gate, Ermine East, Lincoln, Lincolnshire, Greater Lincol"
+]
+],
+"Brayford Comedy Club": [
+[
+53.2282,
+-0.5468,
+"manual",
+"manual",
+"manual"
+]
+],
+"Tension Exit Games": [
+[
+53.2294023,
+-0.5319546,
+"leisure",
+"escape_game",
+"Tension Twisted Realities, 53, Croft Street, St. Giles, Lincoln, Lincolnshire, G"
+]
+],
+"London Camera Exchange": [
+[
+53.23,
+-0.5398,
+"manual",
+"manual",
+"6 Silver Street (OSM still shows the old 155 High Street site)"
+]
+],
+"Not Quite North": [
+[
+53.2292777,
+-0.5409983,
+"craft",
+"photographic_laboratory",
+"Not Quite North, 23A, Guildhall Street, New Boultham, Lincoln, Lincolnshire, Gre"
+]
+],
+"CeX Lincoln": [
+[
+53.2298342,
+-0.5397964,
+"shop",
+"electronics",
+"CeX, 1, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, "
+]
+],
+"BHF Furniture & Electrical, Lincoln": [
+[
+53.2263668,
+-0.5416935,
+"shop",
+"charity",
+"British Heart Foundation, High Street, New Boultham, Lincoln, Lincolnshire, Grea"
+]
+],
+"St Barnabas Hospice: The Warehouse": [
+[
+53.244,
+-0.525,
+"manual",
+"manual",
+"manual"
+]
+],
+"Agatha": [
+[
+53.2313624,
+-0.5397286,
+"shop",
+"clothes",
+"Agatha, 262A, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Todd's Menswear": [],
+"Asia Supermarket": [],
+"Cornhill Market": [
+[
+53.227986,
+-0.5391538,
+"amenity",
+"marketplace",
+"Cornhill Market, Sincil Street, New Boultham, Lincoln, Lincolnshire, Greater Lin"
+]
+],
+"Whisby Nature Park": [
+[
+53.1875108,
+-0.643042,
+"leisure",
+"nature_reserve",
+"Whisby Nature Park, Thorpe on the Hill, North Kesteven, Lincolnshire, Greater Li"
+]
+],
+"Boultham Park": [
+[
+53.2087563,
+-0.5572185,
+"leisure",
+"park",
+"Boultham Park, Boultham, Bracebridge, Lincoln, Lincolnshire, Greater Lincolnshir"
+]
+],
+"Market Rasen Racecourse": [
+[
+53.37931,
+-0.31493,
+"tourism",
+"camp_site",
+"Market Rasen Racecourse, Legsby Road, Market Rasen, West Lindsey, Lincolnshire, "
+]
+],
+"Southwell Minster": [
+[
+53.0768472,
+-0.9541376,
+"amenity",
+"place_of_worship",
+"Southwell Minster, Church Street, Southwell CP, Newark and Sherwood, Nottinghams"
+]
+],
+"The Collection (Lincoln Museum)": [
+[
+53.2316726,
+-0.5373686,
+"tourism",
+"museum",
+"Lincoln Museum, 1, Danes Terrace, New Boultham, Lincoln, Lincolnshire, Greater L"
+]
+],
+"The Little Red Gallery": [
+[
+53.2348141,
+-0.538723,
+"shop",
+"art",
+"The Little Red Gallery, 8, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Linc"
+]
+],
+"Indigo Crow": [
+[
+53.2378,
+-0.543,
+"manual",
+"manual",
+"manual"
+]
+],
+"Gallery at St Martin's": [
+[
+53.2312,
+-0.542,
+"manual",
+"manual",
+"manual"
+]
+],
+"Clarendon Fine Art": [
+[
+53.2275,
+-0.5397,
+"manual",
+"manual",
+"manual"
+]
+],
+"Spencer Coleman Fine Art": [
+[
+53.234,
+-0.5372,
+"manual",
+"manual",
+"manual"
+]
+],
+"J. Birkett (Birketts)": [
+[
+53.2317752,
+-0.5388,
+"shop",
+"electrical",
+"J. Birkett, 25-26, The Strait, New Boultham, Lincoln, Lincolnshire, Greater Linc"
+]
+],
+"EQVVS": [
+[
+53.2306273,
+-0.5396253,
+"shop",
+"clothes",
+"Eqvvs, 280-281, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincol"
+]
+],
+"Gere Menswear": [],
+"Cahoots for Men": [
+[
+53.234,
+-0.5388,
+"manual",
+"manual",
+"manual"
+]
+],
+"Cahoots for Ladies": [
+[
+53.2341465,
+-0.5385536,
+"shop",
+"clothes",
+"Cahoots for Ladies, 36, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Linco"
+]
+],
+"Debutante Boutique": [],
+"OSKA": [
+[
+53.2348741,
+-0.5387816,
+"shop",
+"clothes",
+"Oska, 10, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England"
+]
+],
+"SELF": [],
+"Oui": [],
+"The Collections by Shahla": [],
+"Chesters Menswear": [],
+"Dash Boutique": [],
+"Bo-Peep Boutique": [
+[
+53.2350932,
+-0.5384185,
+"shop",
+"toys",
+"Bo Peep in the Bail, 88 A-C, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Li"
+]
+],
+"Ego Clothing": [
+[
+53.2316947,
+-0.539364,
+"shop",
+"clothes",
+"Ego, 2, The Strait, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, E"
+]
+],
+"ProAmpac Stadium (Lincoln City)": [
+[
+53.2182158,
+-0.540833,
+"leisure",
+"stadium",
+"LNER Stadium, Sincil Bank, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Tension Twisted Realities": [
+[
+53.2294023,
+-0.5319546,
+"leisure",
+"escape_game",
+"Tension Twisted Realities, 53, Croft Street, St. Giles, Lincoln, Lincolnshire, G"
+]
+],
+"New Theatre Royal Lincoln": [
+[
+53.2307743,
+-0.5390144,
+"amenity",
+"theatre",
+"New Theatre Royal, Clasketgate, New Boultham, Lincoln, Lincolnshire, Greater Lin"
+]
+],
+"Corvo (formerly Coneys)": [
+[
+53.2309525,
+-0.5400444,
+"shop",
+"clothes",
+"Coneys, 255, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnsh"
+]
+]
 }
