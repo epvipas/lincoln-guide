@@ -800,15 +800,6 @@
 "Castle view Indian Cuisine, 11, Union Road, Whitton Park, New Boultham, Lincoln,"
 ]
 ],
-"Cognito": [
-[
-53.2304371,
--0.5408429,
-"amenity",
-"restaurant",
-"Cognito, 10, Park Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnsh"
-]
-],
 "Lion & Snake": [
 [
 53.2354635,
@@ -1003,6 +994,15 @@
 "highway",
 "secondary",
 "Corporation Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, E"
+]
+],
+"Cognito": [
+[
+53.2395962,
+-0.5797823,
+"amenity",
+"pub",
+"The Pyewipe Inn, Saxilby Road, Ermine West, Lincoln, Lincolnshire, Greater Linco"
 ]
 ]
 }

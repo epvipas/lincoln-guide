@@ -383,9 +383,9 @@ add("mid","Olivares Tapas Bar","3 Castle Hill, LN1 3AA",
 add("mid","Castle View Indian Cuisine","11 Union Road, LN1 3BJ",
  "A highly rated Indian restaurant beside the Castle's West Gate, with a long menu of classic and regional dishes.",
  "Book at weekends",price=2,geo="Castle View Indian Cuisine, Union Road, Lincoln",ll=(53.2350,-0.5425))
-add("mid","Cognito","10 Park Street, LN1 1UF",
- "Lincoln's independent Japanese restaurant, best for ramen, gyoza, bao and yakitori. The sushi gets more mixed reviews.",
- "Go for the ramen",price=2,ta=True,geo="Cognito, Lincoln",ll=(53.2302,-0.5395))
+add("mid","Cognito","The Pyewipe, Saxilby Road, LN1 2BG",
+ "Lincoln's independent Japanese restaurant, now in the Pyewipe on the Fossdyke canal just outside the city. It's best for ramen, gyoza, bao and yakitori.",
+ "Walk about 2 miles along the Fossdyke towpath from the Brayford, or drive · check hours and book ahead",price=2,far=True,geo="Pyewipe, Saxilby Road, Lincoln",ll=(53.2393,-0.5827))
 # pubs
 add("pubs","Lion & Snake","79 Bailgate, LN1 3AR",
  "A partly timber-framed, Grade II-listed pub said to be the oldest in the city, big and comfortable, and popular with locals and visitors.",
