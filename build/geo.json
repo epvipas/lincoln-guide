@@ -98,7 +98,6 @@
 "Museum of Lincolnshire Life, Upper Long Leys Road, Whitton Park, Ermine West, Li"
 ]
 ],
-"Ellis Mill": [],
 "Usher Gallery": [
 [
 53.2320929,
@@ -135,8 +134,6 @@
 "Imperial Teas, 47, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshi"
 ]
 ],
-"Goodies sweet shop": [],
-"Back To Mono": [],
 "Lindum Books": [
 [
 53.2346384,
@@ -155,7 +152,6 @@
 "Westgate Antiques Centre, 24, Westgate, Ermine, Lincoln, Lincolnshire, Greater L"
 ]
 ],
-"Rock Retro": [],
 "Hemswell Antique Centres": [
 [
 53.3996664,
@@ -165,8 +161,6 @@
 "Hemswell Antique Centres Number Two, Barton Road, Hemswell Cliff Business Centre"
 ]
 ],
-"The Cheese Society": [],
-"Mouse House Cheese Shop": [],
 "Steep Hill Wines": [
 [
 53.2338173,
@@ -194,10 +188,6 @@
 "Bunty's Tea Room, 18, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincoln"
 ]
 ],
-"Pimento": [],
-"Coffee Bobbins": [],
-"Caf\u00e9 Shanti": [],
-"Jew's House Restaurant": [],
 "Ol\u00e9 Ol\u00e9": [
 [
 53.2353377,
@@ -252,7 +242,6 @@
 "Joiners Arms, 4-6, Victoria Street, New Boultham, Lincoln, Lincolnshire, Greater"
 ]
 ],
-"Adam & Eve Tavern": [],
 "Cardinal's Hat": [
 [
 53.2314391,
@@ -307,7 +296,6 @@
 "New Theatre Royal, Clasketgate, New Boultham, Lincoln, Lincolnshire, Greater Lin"
 ]
 ],
-"Gamesaints": [],
 "Lincoln Arboretum": [
 [
 53.2313408,
@@ -326,7 +314,6 @@
 "Fossdyke Navigation, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, "
 ]
 ],
-"Hartsholme Country Park": [],
 "LNER Stadium (Lincoln City)": [
 [
 53.2182158,
@@ -381,7 +368,6 @@
 "Tattershall Castle, Sleaford Road, Tattershall, East Lindsey, Lincolnshire, Grea"
 ]
 ],
-"Kinema in the Woods, Woodhall Spa": [],
 "Belton House": [
 [
 52.9430682,
@@ -391,8 +377,6 @@
 "Belton House, West Courtyard, Belton and Manthorpe, Belton, South Kesteven, Linc"
 ]
 ],
-"Lincolnshire Aviation Heritage Centre": [],
-"Hobbsons Restaurant & Pie Shop": [],
 "The Drill (Lincoln Drill Hall)": [
 [
 53.2298305,
@@ -546,8 +530,6 @@
 "Agatha, 262A, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolns"
 ]
 ],
-"Todd's Menswear": [],
-"Asia Supermarket": [],
 "Cornhill Market": [
 [
 53.227986,
@@ -665,7 +647,6 @@
 "Eqvvs, 280-281, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincol"
 ]
 ],
-"Gere Menswear": [],
 "Cahoots for Men": [
 [
 53.234,
@@ -684,7 +665,6 @@
 "Cahoots for Ladies, 36, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Linco"
 ]
 ],
-"Debutante Boutique": [],
 "OSKA": [
 [
 53.2348741,
@@ -694,11 +674,6 @@
 "Oska, 10, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England"
 ]
 ],
-"SELF": [],
-"Oui": [],
-"The Collections by Shahla": [],
-"Chesters Menswear": [],
-"Dash Boutique": [],
 "Bo-Peep Boutique": [
 [
 53.2350932,
@@ -751,6 +726,283 @@
 "shop",
 "clothes",
 "Coneys, 255, High Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnsh"
+]
+],
+"Coffee by the Arch": [
+[
+53.2376298,
+-0.5384388,
+"amenity",
+"cafe",
+"Coffee by the Arch, Cecil Street, Ermine, Lincoln, Lincolnshire, Greater Lincoln"
+]
+],
+"200 Degrees": [
+[
+53.2274674,
+-0.5386933,
+"amenity",
+"cafe",
+"200 Degrees Coffee, 34-35, Sincil Street, New Boultham, Lincoln, Lincolnshire, G"
+]
+],
+"Doughnotts": [
+[
+53.2277008,
+-0.5401648,
+"amenity",
+"fast_food",
+"Doughnotts, 8, Cornhill, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshi"
+]
+],
+"Sign of the Fish": [
+[
+53.2277706,
+-0.5385912,
+"amenity",
+"fast_food",
+"Sign Of The Fish, 42, Sincil Street, New Boultham, Lincoln, Lincolnshire, Greate"
+]
+],
+"Burton Road Chippy": [
+[
+53.2393423,
+-0.5449135,
+"amenity",
+"fast_food",
+"Burton Road Chippy, Kingsley Street, Whitton Park, Ermine West, Lincoln, Lincoln"
+]
+],
+"Elite on the Bail": [
+[
+53.2355786,
+-0.5387898,
+"amenity",
+"restaurant",
+"Elite on the Bail, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire"
+]
+],
+"Thailand No. 1": [
+[
+53.2353545,
+-0.538386,
+"amenity",
+"restaurant",
+"Thailand No 1, 1, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire,"
+]
+],
+"Castle View Indian Cuisine": [
+[
+53.2355345,
+-0.5427537,
+"amenity",
+"restaurant",
+"Castle view Indian Cuisine, 11, Union Road, Whitton Park, New Boultham, Lincoln,"
+]
+],
+"Cognito": [
+[
+53.2304371,
+-0.5408429,
+"amenity",
+"restaurant",
+"Cognito, 10, Park Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnsh"
+]
+],
+"Lion & Snake": [
+[
+53.2354635,
+-0.5383936,
+"amenity",
+"pub",
+"Lion and Snake, 79, Bailgate, Ermine, Lincoln, Lincolnshire, Greater Lincolnshir"
+]
+],
+"Treaty of Commerce": [
+[
+53.2263304,
+-0.5420972,
+"amenity",
+"pub",
+"Treaty of Commerce, 173, High Street, New Boultham, Lincoln, Lincolnshire, Great"
+]
+],
+"Jolly Brewer": [
+[
+53.2302424,
+-0.5361113,
+"amenity",
+"pub",
+"Jolly Brewer, 27, Broadgate, New Boultham, Lincoln, Lincolnshire, Greater Lincol"
+]
+],
+"Royal William IV": [
+[
+53.2286722,
+-0.5432947,
+"amenity",
+"pub",
+"Royal William IV, 1, Brayford Wharf North, New Boultham, Lincoln, Lincolnshire, "
+]
+],
+"The Pessimist": [
+[
+53.2298265,
+-0.5419391,
+"amenity",
+"bar",
+"The Pessimist Gin and Wine Bar, Mint Lane, New Boultham, Lincoln, Lincolnshire, "
+]
+],
+"The Strait & Narrow": [
+[
+53.2316396,
+-0.5391271,
+"amenity",
+"bar",
+"The Strait and Narrow, 29-31, The Strait, New Boultham, Lincoln, Lincolnshire, G"
+]
+],
+"Electric Bar": [
+[
+53.2301868,
+-0.5467979,
+"tourism",
+"hotel",
+"DoubleTree by Hilton Lincoln, Brayford Wharf North, New Boultham, Lincoln, Linco"
+]
+],
+"The Barge": [
+[
+53.2294824,
+-0.5473187,
+"building",
+"boat",
+"The Barge, Brayford Wharf North, New Boultham, Lincoln, Lincolnshire, Greater Li"
+]
+],
+"Ellis Mill": [],
+"Goodies sweet shop": [],
+"Back To Mono": [],
+"Rock Retro": [],
+"The Cheese Society": [],
+"Mouse House Cheese Shop": [],
+"Coffee Bobbins": [],
+"Jew's House Restaurant": [],
+"Hobbsons Restaurant & Pie Shop": [
+[
+53.234229,
+-0.5388918,
+"amenity",
+"restaurant",
+"Browns Pie Shop, 33, Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolns"
+]
+],
+"Adam & Eve Tavern": [],
+"Gamesaints": [],
+"Hartsholme Country Park": [],
+"Kinema in the Woods, Woodhall Spa": [],
+"Lincolnshire Aviation Heritage Centre": [
+[
+53.0154582,
+-0.4777128,
+"amenity",
+"parking",
+"Car parking for Cranwell Aviation Heritage Centre, Newark Road, North Rauceby, N"
+]
+],
+"Todd's Menswear": [],
+"Asia Supermarket": [],
+"Gere Menswear": [],
+"Debutante Boutique": [],
+"SELF": [],
+"Oui": [],
+"The Collections by Shahla": [],
+"Chesters Menswear": [],
+"Dash Boutique": [],
+"Bells' Tea & Coffee House": [
+[
+53.2334227,
+-0.538544,
+"highway",
+"pedestrian",
+"Steep Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN2 1L"
+]
+],
+"Seven Districts (Bailgate)": [],
+"Coffee Cats Lincoln": [
+[
+53.2320249,
+-0.5389527,
+"amenity",
+"cafe",
+"12, The Strait, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, Engla"
+]
+],
+"BEAR": [],
+"Slow Rise": [],
+"Dough LoCo": [
+[
+53.2338051,
+-0.539859,
+"highway",
+"unclassified",
+"Drury Lane, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN1 3B"
+]
+],
+"Olivares Tapas Bar": [
+[
+53.234416,
+-0.5391795,
+"highway",
+"pedestrian",
+"Castle Hill, Ermine, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN1 3"
+]
+],
+"Magna Carta": [],
+"Bull & Chain": [
+[
+53.2358306,
+-0.5309733,
+"highway",
+"tertiary",
+"Langworthgate, Ermine East, Lincoln, Lincolnshire, Greater Lincolnshire, England"
+]
+],
+"Imp & Angel": [
+[
+53.2193167,
+-0.544898,
+"amenity",
+"pub",
+"Imp & Angel, 417, High Street, New Boultham, Lincoln, Lincolnshire, Greater Linc"
+]
+],
+"Dog & Bone": [
+[
+53.2299306,
+-0.5295358,
+"highway",
+"residential",
+"John Street, St. Giles, Lincoln, Lincolnshire, Greater Lincolnshire, England, LN"
+]
+],
+"Witch & Wardrobe": [
+[
+53.2284607,
+-0.537952,
+"amenity",
+"pub",
+"Witch & Wardrobe, 21, Waterside North, New Boultham, Lincoln, Lincolnshire, Grea"
+]
+],
+"Vice & Co": [
+[
+53.2305885,
+-0.5404821,
+"highway",
+"secondary",
+"Corporation Street, New Boultham, Lincoln, Lincolnshire, Greater Lincolnshire, E"
 ]
 ]
 }

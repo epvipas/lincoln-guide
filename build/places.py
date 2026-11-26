@@ -333,3 +333,100 @@ add("fashion","Ego Clothing","The Strait, LN2 1JD",
 add("fashion","Corvo (formerly Coneys)","255 High Street, Lincoln",
  "A long-running Lincolnshire designer menswear shop, trading as Coneys since the early 1990s and recently renamed Corvo. It sells smart-casual and tailoring labels. The shop next door, once the Cavani suit shop, is now also Corvo and sells discounted designer menswear.",
  "Check the discount shop next door for bargains · combine with EQVVS, Gere and Todd's",who=["m"],ta=False,geo="Coneys, High Street, Lincoln",ll=(53.2299,-0.5398))
+
+# ---------------- MORE PLACES TO EAT & DRINK (Nov 2026) ----------------
+# cafés
+add("cafes","Bells' Tea & Coffee House","38–39 Steep Hill, LN2 1LU",
+ "A family-run tea room at the top of Steep Hill, rarely without a queue, serving homemade cakes, light lunches and afternoon tea.",
+ "Book afternoon tea at weekends",price=1,ta=True,geo="38 Steep Hill, Lincoln",ll=(53.2334,-0.5390))
+add("cafes","Coffee by the Arch","Bailgate, by Newport Arch, LN1 3AR",
+ "A small, friendly coffee shop at the far end of Bailgate, right beside the Roman Newport Arch, with a few outdoor tables.",
+ "Sit outside to watch traffic squeeze through the Roman arch",price=1,geo="Coffee by the Arch, Lincoln",ll=(53.2382,-0.5384))
+add("cafes","Seven Districts (Bailgate)","Bailgate, LN1 3AE",
+ "The Bailgate café of a Lincolnshire coffee roaster whose seven house roasts are named after county folk tales.",
+ "Newer branch, so check it's open",price=1,ta=False,geo="Seven Districts, Bailgate, Lincoln",ll=(53.2364,-0.5388))
+add("cafes","Coffee Cats Lincoln","12 The Strait, LN2 1JD",
+ "A cat café at the foot of Steep Hill: coffee and cake in the company of resident rescue cats.",
+ "Book a slot ahead, especially at weekends",price=1,geo="12 The Strait, Lincoln",ll=(53.2307,-0.5392))
+add("cafes","200 Degrees","34–35 Sincil Street, LN5 7ET",
+ "One of the busiest coffee shops in the city, from the Nottingham roaster, with brunch, cakes and a barista school.",
+ "Handy for the Cornhill Market and the station",price=1,geo="200 Degrees, Lincoln",ll=(53.2272,-0.5410))
+add("cafes","BEAR","Former Three Joes building, Cornhill Quarter",
+ "Speciality coffee, all-day brunch and cocktails from a small independent chain, in the old Three Joes building. It's the chain's first branch in Lincolnshire.",
+ "Opened in 2026, so check the hours",price=2,ta=False,geo="BEAR, Cornhill, Lincoln",ll=(53.2276,-0.5405))
+add("cafes","Doughnotts","8 Cornhill, LN5 7HB",
+ "Lincoln's first doughnut-and-coffee shop: big, filled doughnuts made fresh, with weekly specials.",
+ "Get there early: favourites sell out",price=1,ta=False,geo="Doughnotts, Lincoln",ll=(53.2274,-0.5408))
+# cheap eats
+add("cheap","Slow Rise","8–12 St Martin's Lane, LN2 1HY",
+ "A small vegetarian pizzeria serving slow-proved Neapolitan-style pizzas with plenty of vegan options. The tiramisu has a fan club.",
+ "Book ahead: it gets busy",price=1,geo="St Martin's Lane, Lincoln",ll=(53.2300,-0.5410))
+add("cheap","Sign of the Fish","42 Sincil Street, LN5 7ET",
+ "Lincoln's oldest chip shop, with roots in the late 19th century, refurbished in 2022 as part of the Cornhill revamp. Eat in or take away.",
+ "Check it's open",price=1,geo="Sign of the Fish, Sincil Street, Lincoln",ll=(53.2265,-0.5398))
+add("cheap","Burton Road Chippy","Burton Road, LN1 3LB",
+ "An award-winning chip shop a short walk from the Cathedral Quarter, once named the country's best independent fish and chip restaurant.",
+ "Combine with the Museum of Lincolnshire Life",price=1,geo="Burton Road Chippy, Lincoln",ll=(53.2390,-0.5455))
+add("cheap","Elite on the Bail","21–22 Bailgate, LN1 3AP",
+ "A fish and chip restaurant and takeaway on Bailgate, between the Castle and Newport Arch, from a long-running Lincolnshire chippy family.",
+ "Takeaway to eat on the Castle lawns",price=1,geo="Elite, Bailgate, Lincoln",ll=(53.2356,-0.5389))
+# mid-range
+add("mid","Thailand No. 1","Bailgate, LN1 3AR",
+ "A long-established Thai restaurant in an old Bailgate building, popular for curries and stir-fries after a day on the hill.",
+ "Book at weekends",price=2,geo="Thailand No 1, Bailgate, Lincoln",ll=(53.2362,-0.5387))
+add("mid","Dough LoCo","Drury Lane, LN1 3BN",
+ "Neapolitan-style pizza made with a 48-hour proved dough, plus cocktails and craft beer, just below the Castle.",
+ "Two minutes from the Castle's west side",price=2,web="",geo="Drury Lane, Lincoln",ll=(53.2340,-0.5410))
+add("mid","Olivares Tapas Bar","3 Castle Hill, LN1 3AA",
+ "Traditional Spanish small plates, wine and cocktails between the Cathedral and the Castle.",
+ "Pair with Olé Olé for a tapas comparison",price=2,geo="3 Castle Hill, Lincoln",ll=(53.2343,-0.5395))
+add("mid","Castle View Indian Cuisine","11 Union Road, LN1 3BJ",
+ "A highly rated Indian restaurant beside the Castle's West Gate, with a long menu of classic and regional dishes.",
+ "Book at weekends",price=2,geo="Castle View Indian Cuisine, Union Road, Lincoln",ll=(53.2350,-0.5425))
+add("mid","Cognito","10 Park Street, LN1 1UF",
+ "Lincoln's independent Japanese restaurant, best for ramen, gyoza, bao and yakitori. The sushi gets more mixed reviews.",
+ "Go for the ramen",price=2,ta=True,geo="Cognito, Lincoln",ll=(53.2302,-0.5395))
+# pubs
+add("pubs","Lion & Snake","79 Bailgate, LN1 3AR",
+ "A partly timber-framed, Grade II-listed pub said to be the oldest in the city, big and comfortable, and popular with locals and visitors.",
+ "Uphill, a few minutes from the Cathedral",price=1,geo="Lion and Snake, Bailgate, Lincoln",ll=(53.2356,-0.5388))
+add("pubs","Magna Carta","1 Exchequer Gate, LN2 1PZ",
+ "A pub on Castle Square between the Cathedral and the Castle, named after the charter on display next door. Changing real ales.",
+ "Perfect for a pint between the two big sights",price=1,geo="1 Exchequer Gate, Lincoln",ll=(53.2343,-0.5383))
+add("pubs","Bull & Chain","7 Langworthgate, LN2 4AD",
+ "A traditional local just east of the Cathedral, off the main tourist trail, with a good choice of real ales.",
+ "A quiet escape from Bailgate",price=1,ta=False,geo="7 Langworthgate, Lincoln",ll=(53.2372,-0.5330))
+add("pubs","Treaty of Commerce","173 High Street, LN5 7AF",
+ "A Batemans pub with traditional decor, named after the 1860 Anglo-French free-trade treaty. There's even a gents' barber on site.",
+ "A few minutes from the station",price=1,geo="Treaty of Commerce, High Street, Lincoln",ll=(53.2265,-0.5405))
+add("pubs","Imp & Angel","417 High Street, LN5 8HX",
+ "Lincoln's first micropub, formerly the Hop & Barley: tiny, with high tables and a changing line-up of cask ales.",
+ "Downhill on the lower High Street",price=1,ta=False,far=True,geo="417 High Street, Lincoln",ll=(53.2215,-0.5420))
+add("pubs","Dog & Bone","10 John Street, LN2 5BH",
+ "A friendly Batemans backstreet pub east of the centre with a sun-trap beer garden. A former Lincoln CAMRA Pub of the Year.",
+ "Best on a sunny afternoon",price=1,ta=False,geo="10 John Street, Lincoln",ll=(53.2310,-0.5310))
+add("pubs","Jolly Brewer","27 Broadgate, LN2 5AQ",
+ "A lively city-centre pub with a bright green front, reopened in late 2023.",
+ "Closed Mondays; check hours",price=1,ta=False,geo="Jolly Brewer, Broadgate, Lincoln",ll=(53.2298,-0.5365))
+add("pubs","Witch & Wardrobe","21 Waterside North, LN2 5DQ",
+ "A 13th-century Grade II-listed riverside building that has been a fishmonger, chippy, hairdresser and even a brothel, now a quirky pub hung with witches' hats.",
+ "Check hours: some days it opens late morning, others only from Thursday",price=1,geo="21 Waterside North, Lincoln",ll=(53.2290,-0.5375))
+add("pubs","Royal William IV","1 Brayford Wharf North, LN1 1YX",
+ "A pub that has stood on the Brayford waterfront since around 1840, with big outdoor seating, real ales and pub food.",
+ "Grab a waterside table in summer",price=2,geo="Royal William IV, Brayford, Lincoln",ll=(53.2290,-0.5450))
+# bars
+add("bars","Vice & Co","29–31 Corporation Street, LN2 1HL",
+ "A Prohibition-style speakeasy hidden behind what looks like an old TV and audio repair shop. Some say it serves the best Old Fashioned in Lincoln.",
+ "Opens from 17:00 Wed–Thu, earlier at weekends",price=3,geo="Corporation Street, Lincoln",ll=(53.2302,-0.5400))
+add("bars","The Pessimist","4 Mint Lane, LN1 1UD",
+ "A gin and wine bar from the couple behind The Optimist, with a long gin list and a relaxed, grown-up feel.",
+ "Good for a pre-dinner drink",price=2,geo="The Pessimist, Mint Lane, Lincoln",ll=(53.2295,-0.5420))
+add("bars","The Strait & Narrow","29–31 The Strait, LN2 1JD",
+ "A continental-style bar with an English twist where Steep Hill meets the High Street, with craft beer, wine and late opening.",
+ "A good last stop after coming down the hill",price=2,geo="Strait and Narrow, The Strait, Lincoln",ll=(53.2308,-0.5394))
+add("bars","Electric Bar","DoubleTree by Hilton, Brayford Wharf North, LN1 1YW",
+ "A top-floor bar named after the old electricity works, with cocktails and big views over the Brayford Pool.",
+ "Go at sunset",price=3,geo="DoubleTree by Hilton Lincoln",ll=(53.2295,-0.5465))
+add("bars","The Barge","Brayford Wharf North, LN1 1YW",
+ "A floating bar moored on the Brayford Pool, run by the University of Lincoln Students' Union. Lively in term time.",
+ "Busiest with students; check opening times",price=1,ta=False,geo="The Barge, Brayford, Lincoln",ll=(53.2292,-0.5458))
